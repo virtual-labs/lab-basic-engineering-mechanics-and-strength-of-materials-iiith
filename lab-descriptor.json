@@ -1,1 +1,96 @@
- 
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Basic Engineering Mechanics and Strength Of Materials",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "eerc01-iiith.vlabs.ac.in",
+  "introduction": "Basic Engineering Mechanics and Strength of materials is one of the important subject in civil engineering. It is the physical science that looks at the reaction of a body to movement and deformation due to mechanical, thermal and other loads.",
+  "experiments": [
+    {
+      "name": "Tensile Test Experiment",
+      "short-name": "tensile-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-tensile-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Compression Test Experiment",
+      "short-name": "compression-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-compression-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Shear Test Experiment",
+      "short-name": "shear-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-shear-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Torsion Test Experiment",
+      "short-name": "torsion-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-torsion-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Impact Test Experiment",
+      "short-name": "impact-eest-experiment",
+      "repo": "https://github.com/virtual-labs/exp-impact-eest-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Creep Test Experiment",
+      "short-name": "creep-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-creep-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Fatigue Test Experiment",
+      "short-name": "fatigue-test-experiment",
+      "repo": "https://github.com/virtual-labs/exp-fatigue-test-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Compression Test on Spring Experiment",
+      "short-name": "compression-test-spring-experiment",
+      "repo": "https://github.com/virtual-labs/exp-compression-test-spring-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Principal Stresses Experiment",
+      "short-name": "principal-stresses-experiment",
+      "repo": "https://github.com/virtual-labs/exp-principal-stresses-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Rockwell Hardness Experiment",
+      "short-name": "rockwell-hardness-experiment",
+      "repo": "https://github.com/virtual-labs/exp-rockwell-hardness-experiment-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B.E/B.Tech in Civil Engineering"],
+    "PG": ["M.Tech/MS in Civil Engineering"]
+  },
+  "objective": "In Basic Engineering Mechanics and Strength of Materials Virtual Laboratory, students will have the opportunity to apply loads to various materials under different equilibrium conditions. The student will perform tests on different materials in tension, torsion, bending, and buckling etc. These conditions and/or constraints are designed to reinforce classroom theory. By performing required tests in this virtual lab, students get a near realistic feel of the experiment. Student can analyze subsequent data, and compare the results with theory. Quiz is provided at the end of the each lab to test the understanding of student.",
+  "courseAlignment": {
+    "description": "The present lab is aligned with courses of Basic Engineering Mechanics & Strength of Materials. These experiments are mostly covered in the curriculam.",
+    "universities": [" "]
+  },
+  "exp_name": "Rockwell Hardness Experiment",
+  "exp_short_name": "rockwell-hardness-experiment",
+  "version": "v0.3.0"
+}

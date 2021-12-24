@@ -14,70 +14,70 @@
       "name": "Tensile Test Experiment",
       "short-name": "tensile-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-tensile-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Compression Test Experiment",
       "short-name": "compression-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-compression-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Shear Test Experiment",
       "short-name": "shear-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-shear-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Torsion Test Experiment",
       "short-name": "torsion-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-torsion-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Impact Test Experiment",
       "short-name": "impact-eest-experiment",
       "repo": "https://github.com/virtual-labs/exp-impact-eest-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Creep Test Experiment",
       "short-name": "creep-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-creep-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Fatigue Test Experiment",
       "short-name": "fatigue-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-fatigue-test-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Compression Test on Spring Experiment",
       "short-name": "compression-test-spring-experiment",
       "repo": "https://github.com/virtual-labs/exp-compression-test-spring-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Principal Stresses Experiment",
       "short-name": "principal-stresses-experiment",
       "repo": "https://github.com/virtual-labs/exp-principal-stresses-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Rockwell Hardness Experiment",
       "short-name": "rockwell-hardness-experiment",
       "repo": "https://github.com/virtual-labs/exp-rockwell-hardness-experiment-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],
@@ -92,5 +92,5 @@
   },
   "exp_name": "Rockwell Hardness Experiment",
   "exp_short_name": "rockwell-hardness-experiment",
-  "version": "v0.3.0"
+  "version": "v0.4.0"
 }

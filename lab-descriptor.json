@@ -14,7 +14,7 @@
       "name": "Tensile Test Experiment",
       "short-name": "tensile-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-tensile-test-experiment-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -35,7 +35,7 @@
       "name": "Torsion Test Experiment",
       "short-name": "torsion-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-torsion-test-experiment-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -49,7 +49,7 @@
       "name": "Creep Test Experiment",
       "short-name": "creep-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-creep-test-experiment-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -63,7 +63,7 @@
       "name": "Compression Test on Spring Experiment",
       "short-name": "compression-test-spring-experiment",
       "repo": "https://github.com/virtual-labs/exp-compression-test-spring-experiment-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -87,10 +87,12 @@
   },
   "objective": "In Basic Engineering Mechanics and Strength of Materials Virtual Laboratory, students will have the opportunity to apply loads to various materials under different equilibrium conditions. The student will perform tests on different materials in tension, torsion, bending, and buckling etc. These conditions and/or constraints are designed to reinforce classroom theory. By performing required tests in this virtual lab, students get a near realistic feel of the experiment. Student can analyze subsequent data, and compare the results with theory. Quiz is provided at the end of the each lab to test the understanding of student.",
   "courseAlignment": {
-    "description": "The present lab is aligned with courses of Basic Engineering Mechanics & Strength of Materials. These experiments are mostly covered in the curriculam.",
-    "universities": [" "]
+    "description": " ",
+    "universities": [
+      "The present lab is aligned with courses of Basic Engineering Mechanics & Strength of Materials. These experiments are mostly covered in the curriculam."
+    ]
   },
   "exp_name": "Rockwell Hardness Experiment",
   "exp_short_name": "rockwell-hardness-experiment",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }

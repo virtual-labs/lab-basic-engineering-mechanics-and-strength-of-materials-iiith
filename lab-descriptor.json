@@ -15,7 +15,7 @@
       "name": "Tensile Test Experiment",
       "short-name": "tensile-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-tensile-test-experiment-iiith",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
@@ -29,7 +29,7 @@
       "name": "Shear Test Experiment",
       "short-name": "shear-test-experiment",
       "repo": "https://github.com/virtual-labs/exp-shear-test-experiment-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -43,7 +43,7 @@
       "name": "Impact Test Experiment",
       "short-name": "impact-eest-experiment",
       "repo": "https://github.com/virtual-labs/exp-impact-eest-experiment-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -95,5 +95,5 @@
   },
   "exp_name": "Rockwell Hardness Experiment",
   "exp_short_name": "rockwell-hardness-experiment",
-  "version": "v0.6.0"
+  "version": "v0.7.0"
 }

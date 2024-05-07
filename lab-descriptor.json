@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code":"CIVIL"
   },
   "lab": "Basic Engineering Mechanics and Strength Of Materials",
   "lab_display_name": "Basic Engineering Mechanics and Strength Of Materials",
@@ -92,8 +93,5 @@
     "universities": [
       "The present lab is aligned with courses of Basic Engineering Mechanics & Strength of Materials. These experiments are mostly covered in the curriculam."
     ]
-  },
-  "exp_name": "Rockwell Hardness Experiment",
-  "exp_short_name": "rockwell-hardness-experiment",
-  "version": "v0.7.0"
+  }
 }
